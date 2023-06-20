@@ -1,6 +1,8 @@
 # Sample-Recipy-WebApp
 This is a sample for a recipy web app made with Tailwind
 
+![Screenshot](public/picture/WebPage.png)
+
 # Motivation
 Make a first project with Tailwind in order to learn It.
 
